@@ -1,0 +1,506 @@
+[
+  {
+    year: 2025,
+    title: "Consultation Without Consensus: Lessons from the Chilean Constitutional Convention (2021-22)",
+    authors: ["Matthew Martin"],
+    journal: "Política. Revista de Ciencia Política",
+    type: "Article",
+    editors: "",
+    link: "https://revistapolitica.uchile.cl/index.php/RP/article/view/81160"
+  },
+  {
+    year: 2025,
+    title: "Elite Fractures, Public Capture: The Strategic Use of Public Consultation in Global Constitution-Making",
+    authors: ["Matthew Martin"],
+    journal: "Journal of Law and Courts",
+    type: "Article",
+    editors: "",
+    link: "https://www.cambridge.org/core/journals/journal-of-law-and-courts/article/elite-fractures-public-capture-the-strategic-use-of-public-consultation-in-global-constitutionmaking/A6BBCC7D2A7B5744D7766ABB4293595D"
+  },
+  {
+    year: 2024,
+    title: "Which Constitutional Provisions Are Most Important?",
+    authors: ["Richard Albert", "Netta Barak-Corren", "Daniel Brinks", "Adam Chilton", "Rosalind Dixon", "Zachary Elkins", "Tom Ginsburg", "Ran Hirschl", "David Landau", "Ashley Moran", "Yvonne Tew", "Mila Versteeg"],
+    journal: "European Journal of Empirical Legal Studies",
+    type: "Article",
+    editors: "",
+    link: "https://publicera.kb.se/ejels/article/view/21907"
+  },
+  {
+    year: 2023,
+    title: "Measuring constitutional preferences: A new method for analyzing public consultation data",
+    authors: ["Andrés Cruz", "Zachary Elkins", "Roy Gardner", "Matthew Martin", "Ashley Moran"],
+    journal: "PLOS One",
+    type: "Article",
+    editors: "",
+    link: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0295396"
+  },
+  {
+    year: 2022,
+    title: "Ideation and Innovation in Constitutional Rights",
+    authors: ["Zachary Elkins", "Tom Ginsburg"],
+    journal: "Journal of Law and Ethics of Human Rights",
+    type: "Article",
+    editors: "",
+    link: "https://chicagounbound.uchicago.edu/journal_articles/10397/"
+  },
+  {
+    year: 2022,
+    title: "On disruption and leximetrics: A reply to Niels Petersen and Konstantin Chatziathanasiou",
+    authors: ["Zachary Elkins", "Tom Ginsburg"],
+    journal: "International Journal of Constitutional Law",
+    type: "Article",
+    editors: "",
+    link: "https://academic.oup.com/icon/article/19/5/1835/6513584?login=false"
+  },
+  {
+    year: 2022,
+    title: "Imagining a World without the Universal Declaration of Human Rights",
+    authors: ["Zachary Elkins", "Tom Ginsburg"],
+    journal: "World Politics",
+    type: "Article",
+    editors: "",
+    link: "https://www.cambridge.org/core/journals/world-politics/article/abs/imagining-a-world-without-the-universal-declaration-of-human-rights/4123973F960B53B52C64DB6856600B74"
+  },
+  {
+    year: 2022,
+    title: "Underestimated but Undeterred: The 27th Amendment and the Power of Tenacious Citizenship",
+    authors: ["Zachary Elkins"],
+    journal: "Political Science & Politics",
+    type: "Article",
+    editors: "",
+    link: "https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/underestimated-but-undeterred-the-27th-amendment-and-the-power-of-tenacious-citizenship/1912F2DC90242C6A484D340B83437E4B"
+  },
+  {
+    year: 2021,
+    title: "The Bound Executive",
+    authors: ["Tom Ginsburg", "Mila Versteeg"],
+    journal: "International Journal of Constitutional Law",
+    type: "Article",
+    editors: "",
+    link: "https://academic.oup.com/icon/advance-article/doi/10.1093/icon/moab059/6308959?login=true"
+  },
+  {
+    year: 2020,
+    title: "Authoritarian International Law",
+    authors: ["Tom Ginsburg"],
+    journal: "American Journal of International Law",
+    type: "Article",
+    editors: "",
+    link: "https://comparativeconstitutionsproject.org/wp-content/uploads/authoritarian_international_law.Final_.pdf"
+  },
+  {
+    year: 2019,
+    title: "On Constitutionalizing a Balanced Budget",
+    authors: ["Joe Amick", "Terrence Chapman", "Zachary Elkins"],
+    journal: "Journal of Politics",
+    type: "Article",
+    editors: "",
+    link: "https://comparativeconstitutionsproject.org/wp-content/uploads/amick-chapman-elkins-2019.pdf"
+  },
+  {
+    year: 2019,
+    title: "Constitutional Transition",
+    authors: ["Zachary Elkins"],
+    journal: "Oxford Handbook of Public Choice, Volume 2",
+    type: "Chapter",
+    editors: "Roger Congleton, Bernie Grofman, Stefan Voigt",
+    link: "https://global.oup.com/academic/product/the-oxford-handbook-of-public-choice-volume-2-9780190469771?cc=us&lang=en&#"
+  },
+  {
+    year: 2019,
+    title: "On the Paradox of State Religion and Religious Freedom",
+    authors: ["Zachary Elkins"],
+    journal: "Oxford Research Encyclopedia of Politics",
+    type: "Article",
+    editors: "",
+    link: "https://repositories.lib.utexas.edu/handle/2152/78409"
+  },
+  {
+    year: 2019,
+    title: "One Size Does not Fit All: The Provision and Interpretation of Presidential Term Limits",
+    authors: ["Zachary Elkins", "Tom Ginsburg"],
+    journal: "The Politics of Presidential Term Limits",
+    type: "Chapter",
+    editors: "Alexander Baturo, Robert Elgie",
+    link: "https://global.oup.com/academic/product/the-politics-of-presidential-term-limits-9780198837404?cc=us&lang=en&"
+  },
+  {
+    year: 2019,
+    title: "The Constitutional Referendum in Historical Perspective",
+    authors: ["Zachary Elkins", "Alexander Hudson"],
+    journal: "Comparative Constitution Making",
+    type: "Chapter",
+    editors: "David Landau, Hanna Lerner",
+    link: "https://repositories.lib.utexas.edu/handle/2152/78430"
+  },
+  {
+    year: 2018,
+    title: "Is the Sky Falling? Constitutional Crises in Historical Perspective",
+    authors: ["Zachary Elkins"],
+    journal: "Constitutional Democracy in Crisis?",
+    type: "Chapter",
+    editors: "Mark Graber, Sandy Levinson, Mark Tushnet",
+    link: "https://global.oup.com/academic/product/constitutional-democracy-in-crisis-9780190888985?cc=us&lang=en&"
+  },
+  {
+    year: 2017,
+    title: "The Universal Declaration of Human Rights as Constitutional Model",
+    authors: ["Zachary Elkins", "Tom Ginsburg", "James Melton"],
+    journal: "Human Rights Of, By, and For the People: How to Critique and Change the US Constitution",
+    type: "Chapter",
+    editors: "Keri E. Iyall Smith, Louis Edgar Esparza, Judith R. Blau",
+    link: "https://www.routledge.com/Human-Rights-Of-By-and-For-the-People-How-to-Critique-and-Change-the/Smith-Esparza-Blau/p/book/9781138204188"
+  },
+  {
+    year: 2016,
+    title: "Between endurance and change in South-East Asia: the military and constitutional reform in Myanmar and Thailand",
+    authors: ["Melissa Crouch", "Tom Ginsburg"],
+    journal: "Annual Review of Constitution-Building Processes: 2015",
+    type: "Article",
+    editors: "",
+    link: "http://www.idea.int/sites/default/files/publications/chapters/annual-review-of-constitution-building-processes-2015/annual-review-of-constitution-building-processes-2015-chapter-4.pdf"
+  },
+  {
+    year: 2016,
+    title: "Comparative Approaches to Constitutional Gun Rights",
+    authors: ["Zachary Elkins"],
+    journal: "Guns and Contemporary Society: The Past, Present, and Future of Firearms and Firearm Policy",
+    type: "Chapter",
+    editors: "Glenn Howard Utter",
+    link: "https://products.abc-clio.com/abc-cliocorporate/product.aspx?pc=A4384C"
+  },
+  {
+    year: 2016,
+    title: "The Logic and Design of a low-commitment Constitution (or, how to stop worrying about the right to secede)",
+    authors: ["Zachary Elkins"],
+    journal: "Nullification and Secession in Contemporary Constitutional Thought",
+    type: "Chapter",
+    editors: "Sanford Levinson",
+    link: "https://www.jstor.org/stable/j.ctt1dr36x4"
+  },
+  {
+    year: 2016,
+    title: "On the influence of Magna Carta and other cultural relics",
+    authors: ["Zachary Elkins", "Tom Ginsburg", "James Melton"],
+    journal: "International Review of Law and Economics",
+    type: "Article",
+    editors: "",
+    link: "https://repositories.lib.utexas.edu/handle/2152/74325"
+  },
+  {
+    year: 2016,
+    title: "Time and Constitutional Efficacy",
+    authors: ["Zachary Elkins", "Tom Ginsburg", "James Melton"],
+    journal: "Assessing Constitutional Performance",
+    type: "Chapter",
+    editors: "Tom Ginsburg, Aziz Huq",
+    link: "https://www.cambridge.org/core/books/assessing-constitutional-performance/time-and-constitutional-efficacy/13DF98B0B84409F5F1DB73C56F100FFA"
+  },
+  {
+    year: 2015,
+    title: "Does the Constitutional Amendment Rule Matter at All? Amendment Cultures and the Challenges of Measuring Amendment Difficulty",
+    authors: ["James Melton", "Tom Ginsburg"],
+    journal: "I•CON",
+    type: "Article",
+    editors: "",
+    link: "http://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=2348&context=law_and_economics"
+  },
+  {
+    year: 2014,
+    title: "Constitutional Islamization and Human Rights: The Surprising Origin and Spread of Islamic Supremacy in Constitutions",
+    authors: ["Dawood I. Ahmed", "Tom Ginsburg"],
+    journal: "Virginia Journal of International Law",
+    type: "Article",
+    editors: "",
+    link: "https://comparativeconstitutionsproject.org/wp-content/uploads/Ahmed-Ginsburg-v12-JRN-FINAL-TO-PUBLISH.pdf?5a70b3"
+  },
+  {
+    year: 2014,
+    title: "Constitutions and Election Management",
+    authors: ["Svitlana Chernykh", "Zachary Elkins", "James Melton", "Tom Ginsburg"],
+    journal: "Advancing Electoral Integrity",
+    type: "Chapter",
+    editors: "Pippa Norris, Richard W. Frank, Ferran Martinez i Coma",
+    link: "https://chicagounbound.uchicago.edu/book_chapters/1337/"
+  },
+  {
+    year: 2014,
+    title: "Stjórnarskrárgerd á Tímum Gagnæis: Ísland í Samanburdi Vid Önnur Lönd",
+    authors: ["Zachary Elkins", "Tom Ginsburg"],
+    journal: "Lýðræðistilraunir: Ísland í hruni og endurreisn",
+    type: "Chapter",
+    editors: "Jón Ólafsson",
+    link: "http://haskolautgafan.hi.is/l%C3%BD%C3%B0r%C3%A6%C3%B0istilraunir"
+  },
+  {
+    year: 2014,
+    title: "Constitute: The World's Constitutions to Read, Search and Compare",
+    authors: ["Zachary Elkins", "Tom Ginsburg", "James Melton", "Robert Shaffer", "Juan F. Sequeda", "Daniel Miranker"],
+    journal: "Journal of Web Semantics",
+    type: "Article",
+    editors: "",
+    link: "http://www.sciencedirect.com/science/article/pii/S1570826814000547#"
+  },
+  {
+    year: 2014,
+    title: "Chaining the Dog of War: Comparative Data",
+    authors: ["Tom Ginsburg"],
+    journal: "Chicago Unbound",
+    type: "Article",
+    editors: "",
+    link: "http://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=8092&context=journal_articles"
+  },
+  {
+    year: 2014,
+    title: "East Asian Constitutionalism in Comparative Perspective",
+    authors: ["Tom Ginsburg"],
+    journal: "Constitutionalism in Asia in the Early Twenty-First Century",
+    type: "Chapter",
+    editors: "Albert H.Y. Chen",
+    link: "http://ebooks.cambridge.org/chapter.jsf?bid=CBO9781107338333&cid=CBO9781107338333A010&tabName=Chapter"
+  },
+  {
+    year: 2014,
+    title: "'We the Peoples': The Global Origins of Constitutional Preambles",
+    authors: ["Tom Ginsburg", "Nick Foti", "Daniel Rockmore"],
+    journal: "George Washington International Law Review",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2360725"
+  },
+  {
+    year: 2014,
+    title: "Why Do Countries Adopt Constitutional Review?",
+    authors: ["Tom Ginsburg", "Mila Versteeg"],
+    journal: "Journal of Law, Economics, and Organization",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319363"
+  },
+  {
+    year: 2014,
+    title: "Does De Jure Judicial Independence Really Matter? A Reevaluation of Explanations for Judicial Independence",
+    authors: ["James Melton", "Tom Ginsburg"],
+    journal: "Journal of Law and Courts",
+    type: "Article",
+    editors: "",
+    link: "http://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1178&context=law_and_economics"
+  },
+  {
+    year: 2013,
+    title: "Beyond Presidentialism and Parliamentarism",
+    authors: ["Jose Cheibub", "Zachary Elkins", "Tom Ginsburg"],
+    journal: "British Journal of Political Science",
+    type: "Article",
+    editors: "",
+    link: "https://comparativeconstitutionsproject.org/wp-content/uploads/Beyond-Presidentialism-and-Parliamentarism.pdf"
+  },
+  {
+    year: 2013,
+    title: "An Epidemiological Analysis of Constitutional Mortality",
+    authors: ["Zachary Elkins", "Tom Ginsburg", "James Melton"],
+    journal: "Law and Politics: Critical Concepts in Political Science, V. 4",
+    type: "Chapter",
+    editors: "Keith E. Whittington",
+    link: "http://chicagounbound.uchicago.edu/book_chapters/1111/"
+  },
+  {
+    year: 2013,
+    title: "Getting to Rights: Treaty Ratification, Constitutional Convergence, and Human Rights Practice",
+    authors: ["Zachary Elkins", "Tom Ginsburg", "Beth Simmons"],
+    journal: "Harvard Journal of International Law",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2296607"
+  },
+  {
+    year: 2013,
+    title: "¿Fruto de la parra envenenada? Algunas observaciones comparadas sobre la constitución chilena",
+    authors: ["Tom Ginsburg"],
+    journal: "Estudios Públicos",
+    type: "Article",
+    editors: "",
+    link: "https://comparativeconstitutionsproject.org/files/Fruto_Ginsburg.pdf"
+  },
+  {
+    year: 2013,
+    title: "The Content of Authoritarian Constitutions",
+    authors: ["Tom Ginsburg", "Zachary Elkins", "James Melton"],
+    journal: "Constitutions in Authoritarian Regimes",
+    type: "Chapter",
+    editors: "Tom Ginsburg, Alberto Simpser",
+    link: "http://chicagounbound.uchicago.edu/book_chapters/606/"
+  },
+  {
+    year: 2013,
+    title: "When to Overthrow your Government: The Right to Resist in the World's Constitutions",
+    authors: ["Tom Ginsburg", "Daniel Lansberg-Rodriguez", "Mila Versteeg"],
+    journal: "UCLA Law Review",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2125186"
+  },
+  {
+    year: 2012,
+    title: "Still the Land of Presidentialism? Executives and the Latin American Constitution",
+    authors: ["Jose Cheibub", "Zachary Elkins", "Tom Ginsburg"],
+    journal: "New Constitutionalism In Latin America: Promises and Practices",
+    type: "Chapter",
+    editors: "Detlef Nolte, Almut Schilling-Vacaflor",
+    link: "https://utexas.influuent.utsystem.edu/en/publications/still-the-land-of-presidentialism-executives-and-the-latin-american-constitution(b3925267-d827-4117-bffa-954a265a4159).html"
+  },
+  {
+    year: 2012,
+    title: "Comments on Law And Versteeg's The Declining Influence of the United States Constitution",
+    authors: ["Zachary Elkins", "Tom Ginsburg", "James Melton"],
+    journal: "NYU Law Review",
+    type: "Article",
+    editors: "",
+    link: "http://www.nyulawreview.org/issues/volume-87-number-6/comments-law-and-versteeg%E2%80%99s-declining-influence-united-states-constitution"
+  },
+  {
+    year: 2012,
+    title: "Do Executive Term Limits Cause Constitutional Crises?",
+    authors: ["Tom Ginsburg", "Zachary Elkins", "James Melton"],
+    journal: "Comparative Constitutional Design",
+    type: "Chapter",
+    editors: "Tom Ginsburg",
+    link: "http://www.cambridge.org/us/knowledge/isbn/item6619697/?site_locale=en_US"
+  },
+  {
+    year: 2012,
+    title: "On the Interpretability of Law: Lessons from the Decoding of National Constitutions",
+    authors: ["James Melton", "Zachary Elkins", "Tom Ginsburg", "Kalev Leetaru"],
+    journal: "British Journal of Political Science",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2191145"
+  },
+  {
+    year: 2011,
+    title: "Latin American Presidentialism in Comparative and Historical Perspective",
+    authors: ["Jose Cheibub", "Zachary Elkins", "Tom Ginsburg"],
+    journal: "Texas Law Review",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1899637"
+  },
+  {
+    year: 2011,
+    title: "Deciding Not to Decide: Deferral in Constitutional Design",
+    authors: ["Rosalind Dixon", "Tom Ginsburg"],
+    journal: "International Journal of Constitutional Law",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2085011"
+  },
+  {
+    year: 2011,
+    title: "Constitutional Specificity: Some Preliminary Investigations",
+    authors: ["Tom Ginsburg"],
+    journal: "Future of Comparative Study of Law",
+    type: "Chapter",
+    editors: "",
+    link: "http://chicagounbound.uchicago.edu/book_chapters/102/"
+  },
+  {
+    year: 2011,
+    title: "On the Evasion of Executive Term Limits",
+    authors: ["Tom Ginsburg", "James Melton", "Zachary Elkins"],
+    journal: "William and Mary Law Review",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1683594"
+  },
+  {
+    year: 2010,
+    title: "Diffusion and the Constitutionalization of Europe",
+    authors: ["Zachary Elkins"],
+    journal: "Comparative Political Studies",
+    type: "Article",
+    editors: "",
+    link: "http://cps.sagepub.com/content/43/8-9/969.abstract"
+  },
+  {
+    year: 2010,
+    title: "Constitutional Specificity, Unwritten Understandings and Constitutional Agreement",
+    authors: ["Tom Ginsburg"],
+    journal: "Constitutional Topography: Values and Constitutions",
+    type: "Chapter",
+    editors: "Andras Sajo, Renata Utz",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1707619"
+  },
+  {
+    year: 2009,
+    title: "Guarding the Guardians: Judicial Councils and Judicial Independence",
+    authors: ["Nuno Garoupa", "Tom Ginsburg"],
+    journal: "American Journal of Comparative Law",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1303847"
+  },
+  {
+    year: 2009,
+    title: "Ancillary Powers of Constitutional Courts",
+    authors: ["Tom Ginsburg", "Zachary Elkins"],
+    journal: "Texas Law Review",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2190494"
+  },
+  {
+    year: 2009,
+    title: "Does the Process of Constitution-Making Matter?",
+    authors: ["Tom Ginsburg", "Zachary Elkins", "Justin Blount"],
+    journal: "Annual Review of Law and Social Science",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1860392"
+  },
+  {
+    year: 2008,
+    title: "Citizen as Founder: Public Participation in Constitutional Approval",
+    authors: ["Zachary Elkins", "Tom Ginsburg", "Justin Blount"],
+    journal: "Temple University Law Review",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1907753"
+  },
+  {
+    year: 2008,
+    title: "Baghdad, Tokyo, Kabul...: Constitution Making in Occupied States",
+    authors: ["Zachary Elkins", "Tom Ginsburg", "James Melton"],
+    journal: "William and Mary Law Review",
+    type: "Article",
+    editors: "",
+    link: "http://scholarship.law.wm.edu/cgi/viewcontent.cgi?article=1140&context=wmlr"
+  },
+  {
+    year: 2008,
+    title: "Commitment and Diffusion: How and Why National Constitutions Incorporate International Law",
+    authors: ["Tom Ginsburg", "Zachary Elkins", "Svitlana Chernykh"],
+    journal: "University of Illinois Law Review",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=999544"
+  },
+  {
+    year: 2007,
+    title: "Can Institutions Build Unity in Multiethnic States?",
+    authors: ["Zachary Elkins", "John Sides"],
+    journal: "American Political Science Review",
+    type: "Article",
+    editors: "",
+    link: "http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=1405116"
+  },
+  {
+    year: 2006,
+    title: "Locking in Democracy: Constitutions, Commitment and International Law",
+    authors: ["Tom Ginsburg"],
+    journal: "New York University Journal of International Law and Politics",
+    type: "Article",
+    editors: "",
+    link: "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=906808"
+  }
+]
