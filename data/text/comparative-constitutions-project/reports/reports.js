@@ -1,0 +1,126 @@
+[
+    {
+        year: "2018",
+        title: "Bringing the World's Constitutions to the Classroom",
+        authors: "Jessie Baugher, Zachary Elkins, Tom Ginsburg",
+        publisher: "Social Education, National Council for the Social Studies",
+        url: "https://comparativeconstitutionsproject.org/wp-content/uploads/NCSS_Lessons-on-the-Law_Constitute.pdf",
+        icon: "📄",
+        category: "Educational Resource"
+    },
+    {
+        year: "2015",
+        title: "To Codify or Not to Codify? Lessons from Consolidating the United Kingdom's Constitutional Statutes",
+        authors: "James Melton, Christine Stuart, Daniel Helen",
+        publisher: "The Constitution Unit, University College London School of Public Policy",
+        url: "https://www.ucl.ac.uk/social-historical-sciences/sites/social_historical_sciences/files/162.pdf",
+        icon: "📜",
+        category: "UK Constitutional Analysis"
+    },
+    {
+        year: "2015",
+        title: "The Netherlands Constitution: Implications for Countries in Transition",
+        authors: "Tom Ginsburg, James Melton",
+        publisher: "Constitution Building Processes Programme, International IDEA",
+        url: "https://comparativeconstitutionsproject.org/wp-content/uploads/Netherlands_Implications_Report.pdf",
+        icon: "🇳🇱",
+        category: "Constitutional Analysis"
+    },
+    {
+        year: "2014",
+        title: "Norway's Enduring Constitution: Implications for Countries in Transition",
+        authors: "Tom Ginsburg, James Melton",
+        publisher: "Constitution Building Processes Programme, International IDEA",
+        url: "https://comparativeconstitutionsproject.org/wp-content/uploads/Norways_Enduring_Constitution.pdf",
+        icon: "🇳🇴",
+        category: "Constitutional Analysis"
+    },
+    {
+        year: "2013",
+        title: "U.S. Gun Rights Are Truly American Exceptionalism",
+        authors: "Zachary Elkins, Tom Ginsburg, James Melton",
+        publisher: "Bloomberg View",
+        url: "https://www.bloomberg.com/opinion/articles/2013-03-07/u-s-gun-rights-truly-are-american-exceptionalism",
+        icon: "📰",
+        category: "Media Analysis",
+        buttonText: "Read Article"
+    },
+    {
+        year: "2013",
+        title: "Whither Scotland? An Evaluation of a Proposed Constitutional Plan",
+        authors: "James Melton, Zachary Elkins, Tom Ginsburg",
+        publisher: "Independent constitutional analysis",
+        url: "https://comparativeconstitutionsproject.org/wp-content/uploads/Melkinsburg_ScottishConstitution.pdf",
+        icon: "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        category: "Constitutional Evaluation"
+    },
+    {
+        year: "2012",
+        title: "A Review of Iceland's Draft Constitution",
+        authors: "Zachary Elkins, Tom Ginsburg, James Melton",
+        publisher: "Independent constitutional review for the Government of Iceland",
+        url: "https://comparativeconstitutionsproject.org/wp-content/uploads/CCP-Iceland-Report.pdf",
+        icon: "🇮🇸",
+        category: "Constitutional Review",
+        extraLink: {
+            text: "Also available in Icelandic",
+            url: "https://notendur.hi.is/gylfason/A%20Review%20of%20Iceland_IS_clean.pdf"
+        }
+    },
+    {
+        year: "2011",
+        title: "Lessons from the Decoding and Coding of National Constitutions",
+        authors: "Zachary Elkins, Tom Ginsburg, James Melton",
+        publisher: "APSA-CD Newsletter, 9.1: 2, 11-14",
+        url: "https://repositories.lib.utexas.edu/items/e6472b5a-b071-4102-b3a4-7d95e3430580/full",
+        icon: "📰",
+        category: "Academic Newsletter",
+        buttonText: "Read Article"
+    },
+    {
+        year: "2011",
+        title: "Comparative Constitutional Review",
+        authors: "Tom Ginsburg",
+        publisher: "US Institute for Peace",
+        url: "http://www.usip.org/sites/default/files/ROL/TG_Memo_on_Constitutional_Review%20for%202011_v4.pdf",
+        icon: "⚖️",
+        category: "Policy Memo"
+    },
+    {
+        year: "2011",
+        title: "Constitutional Reform in the English-Speaking Caribbean: Challenges and Prospects",
+        authors: "Zachary Elkins, Tom Ginsburg, Justin Blount",
+        publisher: "SSRC Conflict Prevention and Peace Forum",
+        url: "https://comparativeconstitutionsproject.org/wp-content/uploads/CDG_Constitutional-Reform-in-the-English-Speaking-Caribbean_CPPF-Briefing-Paper_January-2011_f.pdf",
+        icon: "🏝️",
+        category: "Regional Analysis"
+    },
+    {
+        year: "2009",
+        title: "Judicial Appointments and Judicial Independence",
+        authors: "Tom Ginsburg",
+        publisher: "US Institute for Peace",
+        url: "https://comparativeconstitutionsproject.org/wp-content/uploads/judicial_appointments.pdf",
+        icon: "⚖️",
+        category: "Judicial Analysis"
+    },
+    {
+        year: "2008",
+        title: "Military Occupations and their Constitutional Residue",
+        authors: "Zachary Elkins, Tom Ginsburg, James Melton",
+        publisher: "APSA-CP Newsletter, 19: 7-10",
+        url: "https://eprints.imtlucca.it/44/1/elkins_ginsburg_melton2008b.pdf",
+        icon: "🪖",
+        category: "Military Occupations",
+        buttonText: "Read Article"
+    },
+    {
+        year: "2005",
+        title: "The Iraqi Draft Constitution in Comparative Perspective",
+        authors: "Zachary Elkins, Tom Ginsburg",
+        publisher: "Independent constitutional analysis",
+        url: "https://comparativeconstitutionsproject.org/wp-content/uploads/The-Iraqi-Draft-Constitution-in-Comparative-Perspective.docx",
+        icon: "🏛️",
+        category: "Iraq Constitution"
+    }
+]
